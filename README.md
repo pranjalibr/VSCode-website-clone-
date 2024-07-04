@@ -1,4 +1,4 @@
-# *<u style="color:#0066b8;">VS Code</u>* Clone Project Using *<u style="color:#36B7F0;">Tailwind CSS</u>* 
+ *<u style="color:#0066b8;">VS Code</u>* Clone Project Using *<u style="color:#36B7F0;">Tailwind CSS</u>* 
 
 >This project is only for educational purpose.
 
