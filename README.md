@@ -2,7 +2,7 @@
 
 >This project is only for educational purpose.
 
-### Project Link - [https://singular-duckanoo-feab3a.netlify.app/](https://singular-duckanoo-feab3a.netlify.app/)
+
 <hr>
 
 ![1](https://user-images.githubusercontent.com/110087385/208140377-39c7731b-67bb-438f-ace4-7546b06b7eb4.png)
